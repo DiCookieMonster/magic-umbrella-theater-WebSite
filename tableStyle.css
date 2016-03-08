@@ -1,0 +1,9 @@
+table {
+    width: 80%;
+}
+table, th, td {
+   border: 3px solid #293d3d;
+}
+th, td {
+    padding: 20px;
+}
